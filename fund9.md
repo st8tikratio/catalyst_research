@@ -1,6 +1,3 @@
-# Cardano Project Catalyst Research
-This is a newly created repository to share metrics and other data that can be observed from freely available data.
-
 ## Fund 9
 The [image](https://github.com/st8tikratio/catalyst_research/files/9738980/FINAL-FUND9-METRICS.pdf) below shows the metrics that has been compiled using data from the final voting results of [Fund 9](https://github.com/st8tikratio/catalyst_research/tree/main/fund9)
 
