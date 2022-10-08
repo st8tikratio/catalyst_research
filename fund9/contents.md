@@ -25,3 +25,7 @@ This folder contains all the data provided by IOG related to the final results o
 #### [Project Catalyst Fund9 Voting Results (official).pdf](https://github.com/st8tikratio/catalyst_research/blob/main/fund9/Project%20Catalyst%20-%20Fund9%20-%20Voting%20Results%20(official).pdf)
 - Original voting results announcement distributed by IOG via newsletter and other communications platforms
 - Author: IOG
+
+#### [Fund9 Catalyst Parameters.pdf](https://github.com/st8tikratio/catalyst_research/blob/main/fund9/Fund9%20Catalyst%20Parameters%20-%20Public.pdf)
+- This doc was downloaded from [here](https://drive.google.com/file/d/1GmgwUGuZ3yE0w3usZdV-ZZw-nP8oPqX5/view)
+- Author: Unknown
