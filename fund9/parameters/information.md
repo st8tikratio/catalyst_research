@@ -38,4 +38,12 @@ Table 1
 | Registration start time | 07/Apr/2022, 12:00 UTC | Registrations made after 03/06/2021 16:00 UTC are valid. Official registration start time starts an hour after the previous Fund snapshot. | 
 | Registration snapshot date | 04/Aug/2022, 11:00 UTC | | 
 | Voting period start time| 11/Aug/2022, 07:00 UTC <p></p> Communicate: 11/Aug/2022, 11:00 UTC | (A block height bound to) UTC date and time when voters can start voting on proposals |
-| Voting period end time |
+| Voting period end time | 25/Aug/2022, 11:00 UTC | |
+| Start of tallying | 25/Aug/2022, 11:00 UTC | | 
+| End of tallying | 02/Sep/2022, 11:00 UTC | UTC date and time by which the committee shall post the decrypted tally. |
+| next_fund_start_time | 04/Aug/2022, 12:00 UTC | When registration phase for the next Fund starts | 
+| fund_id | 9 | Fund_id as described in vote plan |
+| Jormungandr Tallying optimization | 1 ADA = 1 voting token (i.e. the stake amount in lovelace is divided by 1000000) | How voting power is being proportionally reduced in order to optimize tallying performance |
+| Proposal Funding logic (winner selection rule) | Proposals are ranked by the difference of Yes and No votes and funded one by one until challenge budget is exhausted | Proposals are ranked by sum of votes and funded in order. If the amount requested by a proposal is larger than the remaining challenge amount, it is skipped. | 
+| Proposal acceptance threshold | 1% of total voting power <p></p> 15% more ‘Yes’ than ‘No’ | At least 1% of the total registered stake must vote on a proposal. <p></p> E.g., there is 1 billion ADA as a total registered stake. Then to be accepted (become an ‘approved proposal’ as well as be eligible for funding), a proposal must be voted by at least 0.01 * (1 * 10^9) = 10 millions of ADA. <p></p> 'Yes'-'No' difference of the stake voted on proposal must be at least 15% <p></p> (e.g., 90% 'Yes' and 10% 'No', or 57.5% 'Yes' and 42.5% 'No', or 100% 'Yes' and 0% 'No', etc.; it is assumed that abstained stake does not vote on the proposal in the current architecture).|
+| 
