@@ -22,9 +22,11 @@ Table 1
 |                             | [Cross-Chain Collaboration](https://app.ideascale.com/t/UM5UZBunq) $900,000           | |
 |                             | [Challenge & Scouted for Students](https://app.ideascale.com/t/UM5UZBvbE) $100,000    | |
 |                             | [Grow Africa, Grow Cardano](https://app.ideascale.com/t/UM5UZBuk1) $500,000           | |
-|                             | | |
-|                             | | |
-|                             | | |
-|                             | | |
-|                             | | |
-|                             | | |
+|                             | [dRep improvement and onboarding](https://app.ideascale.com/t/UM5UZBvsJ) $150,000     | |
+|                             | [Grow East Asia, Grow Cardano](https://app.ideascale.com/t/UM5UZBvV3) $250,000        | |
+|                             | [Building (on) Blockfrost](https://app.ideascale.com/t/UM5UZBvum) $50,000             | |
+| Proposals submission fee    | Free                                                                                  | Proposers can submit a proposal for discussion on Ideascale.|
+| Funds under control         | 16,000,000 ada                                                                        | Fund will Control 16M ada |
+| Funds MIR date              | Date + CR                                                                             | |
+| Reward distribution date    | 02/Sep/2022 - 09/Sep/2022                                                             | When funding tx’s actually go out |
+|
