@@ -20,8 +20,8 @@ Table 1
 |                             | [Developer Ecosystem](https://app.ideascale.com/t/UM5UZBvNu) $1,000,000               | |
 |                             | [Dapps, Products & Integrations](https://app.ideascale.com/t/UM5UZBw78) $7,850,000    | |
 |                             | [Cross-Chain Collaboration](https://app.ideascale.com/t/UM5UZBunq) $900,000           | |
-|                             | | |
-|                             | | |
+|                             | [Challenge & Scouted for Students](https://app.ideascale.com/t/UM5UZBvbE) $100,000    | |
+|                             | [Grow Africa, Grow Cardano](https://app.ideascale.com/t/UM5UZBuk1) $500,000           | |
 |                             | | |
 |                             | | |
 |                             | | |
