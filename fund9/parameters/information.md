@@ -1,17 +1,22 @@
 # Information
-These parameters are the guidelines used to define the Catalyst processes for Fund 9
+These parameters below are the guidelines used to define the Catalyst processes for Fund 9
 
-The pdf enclosed was downlaoded from [here](https://drive.google.com/file/d/1GmgwUGuZ3yE0w3usZdV-ZZw-nP8oPqX5/view)
+You can find the PDF [here](https://drive.google.com/file/d/1GmgwUGuZ3yE0w3usZdV-ZZw-nP8oPqX5/view) and the raw data [here](https://docs.google.com/document/d/151LkmQ2yKnuBvts9cGp8H9bmXjir7KIAGAXQltyqWvk/edit).
 
+## Paramter Descriptions
 
-Fund9 Catalyst Governance is the actual voting process put in place to decide
-which proposal will receive funding from treasury
-Table 1 summarizes main parameters to be used.
-Table 1
+Fund9 Catalyst Governance is the actual voting process put in place to decide which proposal will receive funding from treasury
+
+There are three parameter sections within the table below:
+1. Product/Business/Informative Parameters
+2. Rewards Parameters
+3. Back-End Parameters
+
+## Table 1
 
 |PARAMETER | VALUE | DESCRIPTION |
 | -------- | ----- | ----------- |
-| **Product/Business/Informative Parameters** | | |
+| **Product/Business/Informative Parameters** | **===================** | **===================** |
 | Direct Voting privacy state | Yes | Are votes public or not? |
 |Fund name | Fund9 | |
 | Challenges Title and Budget | [The Great Migration (from Ethereum)](https://app.ideascale.com/t/UM5UZBw7N) $500,000 | |
@@ -44,7 +49,7 @@ Table 1
 | next_fund_start_time | 04/Aug/2022, 12:00 UTC | When registration phase for the next Fund starts | 
 | fund_id | 9 | Fund_id as described in vote plan |
 | Jormungandr Tallying optimization | 1 ADA = 1 voting token (i.e. the stake amount in lovelace is divided by 1000000) | How voting power is being proportionally reduced in order to optimize tallying performance |
-|  **Rewards Parameters** | ******************** | ******************* | 
+|  **Rewards Parameters** | **===================** | **===================** | 
 | Proposal Funding logic (winner selection rule) | Proposals are ranked by the difference of Yes and No votes and funded one by one until challenge budget is exhausted | Proposals are ranked by sum of votes and funded in order. If the amount requested by a proposal is larger than the remaining challenge amount, it is skipped. | 
 | Proposal acceptance threshold | 1% of total voting power <p></p> 15% more ‘Yes’ than ‘No’ | At least 1% of the total registered stake must vote on a proposal. <p></p> E.g., there is 1 billion ADA as a total registered stake. Then to be accepted (become an ‘approved proposal’ as well as be eligible for funding), a proposal must be voted by at least 0.01 * (1 * 10^9) = 10 millions of ADA. <p></p> 'Yes'-'No' difference of the stake voted on proposal must be at least 15% <p></p> (e.g., 90% 'Yes' and 10% 'No', or 57.5% 'Yes' and 42.5% 'No', or 100% 'Yes' and 0% 'No', etc.; it is assumed that abstained stake does not vote on the proposal in the current architecture).|
 | $Vr_{total}$ | 13% <br> 2,080,000ada | Total amount of rewards for voters out of total funds in treasury |
@@ -57,4 +62,20 @@ Table 1
 | Referral reward calculation | Equal amount distributed between all referrers who referred to a funded proposal per funded proposal | |
 | Reviewing the reviews formula | Min threshold = 200 <br> Rewards eligible rank cap = inf <br> Reputation eligible rank cap = inf <p></p> Agreement rate cutoff 1 = .9 <p></p> Cutoff 1 multiplier / discount rate = 1.25 <p></p> Agreement rate cutoff 2 = .8 <p></p> Cutoff 2 multiplier / discount rate = 1 <p></p> Agreement rate cutoff 3 = .7 <p></p> Cutoff 3 multiplier / discount rate = .75 <p></p> Below cutoff discount rate = 0 <p></p> IF agreement >= (.9) THEN final eligible ranking = rewards eligible ranking * BONUS (1.25) <br> IF agreement >= (.8) THEN final eligible ranking = rewards eligible ranking * REGULAR (1) <br> IF agreement >= (.7) THEN final eligible ranking = rewards eligible ranking * SLASH (.75) <br> IF agreement < (.7) THEN final eligible ranking = rewards eligible ranking * FORFEIT (0) and these reviews/rankings will be excluded before voting | Veteran community advisors should receive rewards proportional to the number of eligible rankings, to avoid incentivizing bad faith or negligent participation <p></p> Veteran community advisors rankings should be eligible for rewards only when they agree with the majority, in order to incentivize rational and honest participation. For simplicity, only consider filtered out vs good / excellent <p></p> Formulas and references can be found in the [Fund8 - vCA Eligibility & Incentives Requirements](https://docs.google.com/document/d/14qHSZ2uSHq2CZyeqju6KLBcGVfagesCLvavZMAgcbWo/edit) |
 | Contingency for vCA rewards | 5% of $AAr_{total}$ <br> 8,000ada | Funds allocated to pay vCAs after petition outcome
-| 
+| **Back-End Parameters** | **===================** | **===================** | 
+| Direct Voting privacy state | Yes | Are votes public or not? |
+| dReps Voting privacy state (if applicable) | No | Are dReps votes public or not? |
+| Funds under control | 16,000,000 ada | Fund will Control 16M ada |
+| Fund goals | Goal 1 <br> Goal 2 <br> Goal 3 | Fund goals to be presented in the Voting App |
+| Voting power threshold | 450,000,000 lovelace. (**450 ada**) <p></p> **Communicate threshold as 500 to account for tx fees** | Minimal stake threshold to become a voter, based on the efficiency benchmarks of the voting protocol. <p></p> Specific value of the voting stake threshold will be defined by the protocol benchmarks. <p></p> Note that threshold must be lowered by 50 ada from the amount stated to the community to address registration fees. |
+| current_fund_name | Fund9 | |
+| current_insight_sharing_sta rt |  Jun 2, 2022 | |
+| current_proposal_submissi on_start | Jun 9, 2022 | |
+| current_refine_proposals_s tart | Jun 16, 2022 | |
+| current_finalize_proposals_ start | Jun 23, 2022 | |
+| current_proposal_assessm ent | Jun 30, 2022 | |
+| current_assessment_qa_st art | Jul 21, 2022 | |
+| current_snapshot_start | Aug 4, 2022 | |
+| current_voting_start | Sep 5, 2022 | |
+| current_voting_end | Sep 19, 2022 | |
+| current_tallying_end | Sep 22, 2022 | |
