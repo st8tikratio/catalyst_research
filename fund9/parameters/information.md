@@ -29,4 +29,5 @@ Table 1
 | Funds under control         | 16,000,000 ada                                                                        | Fund will Control 16M ada |
 | Funds MIR date              | Date + CR                                                                             | |
 | Reward distribution date    | 02/Sep/2022 - 09/Sep/2022                                                             | When funding tx’s actually go out |
-|
+| Mechanism to prevent price fluctuation | Proposals will be paid the $ value they requested in ada, according to ada valuation at reward distribution date. 3,200,000ada total rewards for Voters + advisors + referrers + challenge teams will be provided according to ada valuation on reward distribution date. | |
+| Fund goals | Attract more developers <p></p> Build real live solutions based on the Cardano blockchain. <p></p> Improve tooling to support human processes in Catalyst | Fund goals to be presented in the Voting App. <p></p> Survey results collected between 4/20 - 5/19. 1045 votes cast, on 31 statements, by 47 unique participants. [Results](https://pol.is/report/r4dafyewbkcrkm8c7exjb). Took top 3 by (yes minus no). Combined 2 / 26 due to similarity, taking the more general “solutions” over “applications”. Broke tie on 10 / 19 based on number of participants + disagreement.| 
