@@ -23,5 +23,5 @@ This folder contains all the data provided by IOG related to the final results o
 - Author: Marek, IOG
 
 #### [Project Catalyst Fund9 Voting Results (official).pdf](https://github.com/st8tikratio/catalyst_research/blob/main/fund9/Project%20Catalyst%20-%20Fund9%20-%20Voting%20Results%20(official).pdf)
-- Original votinf result announcement distributed by IOG via newsletter and other communications platforms
+- Original voting results announcement distributed by IOG via newsletter and other communications platforms
 - Author: IOG
