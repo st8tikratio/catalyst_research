@@ -4,3 +4,5 @@
 
 ### Contents
 This folder contains all the data provided by IOG related to the final results of Project Catalyst Fund 9.
+
+#### [FINAL-FUND9-METRICS.pdf](https://github.com/st8tikratio/catalyst_research/blob/main/fund9/FINAL-FUND9-METRICS.pdf)
