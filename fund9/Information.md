@@ -9,8 +9,8 @@ This folder contains all the data provided by IOG related to the final results o
 
 #### [Fund9-Voting-Results-With-Metrics.csv](https://github.com/st8tikratio/catalyst_research/blob/main/fund9/Fund9-Voting-Results-With-Metrics.csv)
 
-#### [Fund9 Voting Results.xlsx]()
+#### [Fund9 Voting Results.xlsx](https://github.com/st8tikratio/catalyst_research/blob/main/fund9/Fund9%20Voting%20results.xlsx)
 
-#### [Fund9 Voting Results.ods]()
+#### [Fund9 Voting Results.ods](https://github.com/st8tikratio/catalyst_research/blob/main/fund9/Fund9%20Voting%20results.ods)
 
-#### [Project Catalyst Fund9 Voting Results (official).pdf]()
+#### [Project Catalyst Fund9 Voting Results (official).pdf](https://github.com/st8tikratio/catalyst_research/blob/main/fund9/Project%20Catalyst%20-%20Fund9%20-%20Voting%20Results%20(official).pdf)
