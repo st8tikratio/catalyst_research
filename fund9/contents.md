@@ -1,4 +1,4 @@
-# FUND 9 Information
+# FUND 9 Voting Results Data
 > :memo: Use the data at your own risk. There is no guarantee the data is accurate, immutable or otherwise permanent. 
 > The primary data is derived from the voting activities conducted by the Cardano community using the Voting App and recorded to the Jorgumandr side-chain.
 > Verification of the primary data source is not possible since the community is unable to access the relevant side-chain data.
