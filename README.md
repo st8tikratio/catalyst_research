@@ -1,6 +1,6 @@
 # Catalyst Research
 
-This is a newly created repo (07 Oct 2022) and is the beginning of a personal journey to track, compile, 
+This is a newly created [repo](https://github.com/st8tikratio/catalyst_research) (07 Oct 2022) and is the beginning of a personal journey to track, compile, 
 formulate and derive informative data from the various activities conducted in Cardano Project Catalyst. Having come this far, might as well continue on
 with additional research.
 
