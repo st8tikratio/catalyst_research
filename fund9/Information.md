@@ -4,7 +4,7 @@
 > Verification of the primary data source is not possible since the community is unable to access the relevant side-chain data.
 
 ### Contents
-This folder contains all the data provided by IOG related to the final results of Project Catalyst Fund 9.
+This folder contains all the data provided by IOG related to the final results of Project Catalyst Fund 9 and the compiled data set used to calacualte metrics.
 
 #### [FINAL-FUND9-METRICS.pdf](https://github.com/st8tikratio/catalyst_research/blob/main/fund9/FINAL-FUND9-METRICS.pdf)
 - Cutsheet of final analysis using data from [here](https://docs.google.com/spreadsheets/d/1MycQL-dkqf1xEW8xcr7vqcfHY6D7MHnG9ylDKNLSnAA/edit#gid=2095761837)
