@@ -3,7 +3,7 @@ These parameters below are the guidelines used to define the Catalyst processes 
 
 You can find the PDF [here](https://drive.google.com/file/d/1GmgwUGuZ3yE0w3usZdV-ZZw-nP8oPqX5/view) and the raw data [here](https://docs.google.com/document/d/151LkmQ2yKnuBvts9cGp8H9bmXjir7KIAGAXQltyqWvk/edit).
 
-## Paramter Descriptions
+## Parameter Descriptions
 
 Fund9 Catalyst Governance is the actual voting process put in place to decide which proposal will receive funding from treasury
 
