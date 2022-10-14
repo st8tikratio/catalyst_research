@@ -1,6 +1,6 @@
 # Information
 
-These are **_parameter suggestions_** for Fund10.
+These are **_parameter suggestions_** for Fund10. Aside from the three parameter sections (categories) changes will be indicated by bold text.
 
 
 ## Parameter Descriptions
@@ -11,7 +11,7 @@ There are **four columns** in the table below:
 1. Original PARAMETER
 2. Original VALUE
 3. Suggested VALUE
-4. Suggested DESCRIPTION
+4. Suggested DESCRIPTION - if there is no new description the original description (if any) will be shown.
 
 There are **three parameter sections** within the table below:
 1. Product/Business/Informative Parameters
@@ -36,18 +36,18 @@ There are **three parameter sections** within the table below:
 |                             | [dRep improvement and onboarding](https://app.ideascale.com/t/UM5UZBvsJ) $150,000     | Change to Match Results | |
 |                             | [Grow East Asia, Grow Cardano](https://app.ideascale.com/t/UM5UZBvV3) $250,000        | Change to Match Results | |
 |                             | [Building (on) Blockfrost](https://app.ideascale.com/t/UM5UZBvum) $50,000             | Change to Match Results | |
-| Proposals submission fee    | Free                                                                                  | **Should Proposers be required to place funds in escrow** <p></p> This has the possibility of reducing spam and low effort proposals | Proposers can submit a proposal for discussion on Ideascale.|
+| Proposals submission fee    | Free                                                                                  | **Should Proposers be required to place funds in escrow** <p></p> **This has the possibility of reducing spam and low effort proposals** | Proposers can submit a proposal for discussion on Ideascale.|
 | Funds under control         | 16,000,000 ada                                                                        | - | Fund will Control 16M ada |
 | Funds MIR date              | Date + CR                                                                             | - |
 | Reward distribution date    | 02/Sep/2022 - 09/Sep/2022                                                             | - | When funding tx’s actually go out |
-| Mechanism to prevent price fluctuation | Proposals will be paid the $ value they requested in ada, according to ada valuation at reward distribution date. 3,200,000ada total rewards for Voters + advisors + referrers + challenge teams will be provided according to ada valuation on reward distribution date. |  Is this correct and does this now make ADA a security? IF Projects were paid in ADA only, removing the association with USD may be necessary | |
-| Fund goals | Attract more developers <p></p> Build real live solutions based on the Cardano blockchain. <p></p> Improve tooling to support human processes in Catalyst | Fund goals to be presented in the Voting App. <p></p> Survey results collected between 4/20 - 5/19. 1045 votes cast, on 31 statements, by 47 unique participants. [Results](https://pol.is/report/r4dafyewbkcrkm8c7exjb). Took top 3 by (yes minus no). Combined 2 / 26 due to similarity, taking the more general “solutions” over “applications”. Broke tie on 10 / 19 based on number of participants + disagreement.|
-| Maximum proposals that can be put on the ballot | No limit | |
-| Community advisor registration | Through Ideascale | Everyone can register as a Community Advisor. They can’t do CA work in the challenge they are proposing to or are involved with a proposal team.|
-| Proposals registration on the blockchain | Rust/Devops dev | The registration of proposals on the blockchain will be done in the future by an elected committee. |
-| Voting power threshold | 450,000,000 lovelace. (450 ada) <p></p> Communicate threshold as 500 to account for tx fees | Minimal stake threshold to become a voter, based on the efficiency benchmarks of the voting protocol. <p></p> Specific value of the voting stake threshold will be defined by the protocol benchmarks. <p></p> Note that threshold must be lowered by 50 ada from the amount stated to the community to address registration fees.|
-| Registration start time | 07/Apr/2022, 12:00 UTC | Registrations made after 03/06/2021 16:00 UTC are valid. Official registration start time starts an hour after the previous Fund snapshot. | 
-| Registration snapshot date | 04/Aug/2022, 11:00 UTC | | 
+| Mechanism to prevent price fluctuation | Proposals will be paid the $ value they requested in ada, according to ada valuation at reward distribution date. 3,200,000ada total rewards for Voters + advisors + referrers + challenge teams will be provided according to ada valuation on reward distribution date. |  **Is this correct and does this now make ADA a security? If Projects were paid in ADA only, removing the association with USD may be necessar**y | - |
+| Fund goals | Attract more developers <p></p> Build real live solutions based on the Cardano blockchain. <p></p> Improve tooling to support human processes in Catalyst | Fund goals to be presented in the Voting App. <p></p> Survey results collected between 4/20 - 5/19. 1045 votes cast, on 31 statements, by 47 unique participants. [Results](https://pol.is/report/r4dafyewbkcrkm8c7exjb). Took top 3 by (yes minus no). Combined 2 / 26 due to similarity, taking the more general “solutions” over “applications”. Broke tie on 10 / 19 based on number of participants + disagreement.| - |
+| Maximum proposals that can be put on the ballot | No limit | **A maximum of two proposals per funding round. This includes being listed on non-authored proposals or mentoring. <p></p> If a team has one open and funded proposal in $Fund_n$ they may submit one proposal** | **Reduced the unnecessary overhead of extraneous auditing processes due to completion date pushback from funded proposers. <p></p> Reduces the opportunity of overextension, continual funding exercises, increases fairness of fund distribution and promotes sustainability** |
+| Community advisor registration | Through Ideascale | **Change CA and Community Advisor to match current naming conventions**| **Everyone can register as a Proposal Assessor. They can’t do PA work in the challenge they are proposing to or are involved with a proposal team.** |
+| Proposals registration on the blockchain | Rust/Devops dev | **What is this committee's title and who determines the committee makeup?** | The registration of proposals on the blockchain will be done in the future by an elected committee. |
+| Voting power threshold | 450,000,000 lovelace. (450 ada) <p></p> Communicate threshold as 500 to account for tx fees | **Same as original with the addition of a voting token that is sent to the $StakeID$.**  | **This is a temporary, iterative, solution to reduce the imact of large wwallet voting. <p></p> Large wallets are no indication of perticipation or engagement. The change promotes equality and moves us closer to one wallet / one vote.** |
+| Registration start time | 07/Apr/2022, 12:00 UTC |  - | Registrations made after 03/06/2021 16:00 UTC are valid. Official registration start time starts an hour after the previous Fund snapshot. | 
+| Registration snapshot date | 04/Aug/2022, 11:00 UTC | - | - |
 | Voting period start time| 11/Aug/2022, 07:00 UTC <p></p> Communicate: 11/Aug/2022, 11:00 UTC | (A block height bound to) UTC date and time when voters can start voting on proposals |
 | Voting period end time | 25/Aug/2022, 11:00 UTC | |
 | Start of tallying | 25/Aug/2022, 11:00 UTC | | 
@@ -73,7 +73,7 @@ There are **three parameter sections** within the table below:
 | dReps Voting privacy state (if applicable) | No | Are dReps votes public or not? |
 | Funds under control | 16,000,000 ada | Fund will Control 16M ada |
 | Fund goals | Goal 1 <br> Goal 2 <br> Goal 3 | Fund goals to be presented in the Voting App |
-| Voting power threshold | 450,000,000 lovelace. (**450 ada**) <p></p> **Communicate threshold as 500 to account for tx fees** | Minimal stake threshold to become a voter, based on the efficiency benchmarks of the voting protocol. <p></p> Specific value of the voting stake threshold will be defined by the protocol benchmarks. <p></p> Note that threshold must be lowered by 50 ada from the amount stated to the community to address registration fees. |
+| Voting power threshold | 450,000,000 lovelace. (450 ada) <p></p> Communicate threshold as 500 to account for tx fees | Minimal stake threshold to become a voter, based on the efficiency benchmarks of the voting protocol. <p></p> Specific value of the voting stake threshold will be defined by the protocol benchmarks. <p></p> Note that threshold must be lowered by 50 ada from the amount stated to the community to address registration fees. |
 | current_fund_name | Fund9 | |
 | current_insight_sharing_sta rt |  Jun 2, 2022 | |
 | current_proposal_submissi on_start | Jun 9, 2022 | |
