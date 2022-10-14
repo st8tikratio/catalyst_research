@@ -2,7 +2,7 @@
 
 These are **_parameter suggestions_** for Fund10. Aside from the three parameter sections (categories) changes will be indicated by bold text.
 
-:memo: These parameters need updating and modifying. Additionally Catalyst Circle requires its own parameter set.
+:memo: **These parameters need updating and modifying. Additionally Catalyst Circle and dReps require their own parameter sets.**
 
 ## Parameter Descriptions
 
@@ -70,7 +70,7 @@ There are **three parameter sections** within the table below:
 | Reviewing the reviews formula | Min threshold = 200 <br> Rewards eligible rank cap = inf <br> Reputation eligible rank cap = inf <p></p> Agreement rate cutoff 1 = .9 <p></p> Cutoff 1 multiplier / discount rate = 1.25 <p></p> Agreement rate cutoff 2 = .8 <p></p> Cutoff 2 multiplier / discount rate = 1 <p></p> Agreement rate cutoff 3 = .7 <p></p> Cutoff 3 multiplier / discount rate = .75 <p></p> Below cutoff discount rate = 0 <p></p> IF agreement >= (.9) THEN final eligible ranking = rewards eligible ranking * BONUS (1.25) <br> IF agreement >= (.8) THEN final eligible ranking = rewards eligible ranking * REGULAR (1) <br> IF agreement >= (.7) THEN final eligible ranking = rewards eligible ranking * SLASH (.75) <br> IF agreement < (.7) THEN final eligible ranking = rewards eligible ranking * FORFEIT (0) and these reviews/rankings will be excluded before voting | - | Veteran community advisors should receive rewards proportional to the number of eligible rankings, to avoid incentivizing bad faith or negligent participation <p></p> Veteran community advisors rankings should be eligible for rewards only when they agree with the majority, in order to incentivize rational and honest participation. For simplicity, only consider filtered out vs good / excellent <p></p> Formulas and references can be found in the [Fund8 - vCA Eligibility & Incentives Requirements](https://docs.google.com/document/d/14qHSZ2uSHq2CZyeqju6KLBcGVfagesCLvavZMAgcbWo/edit) |
 | Contingency for vCA rewards | 5% of $AAr_{total}$ <br> 8,000ada | **Is this validating the Petitions Process? What happens to the funds that are slashed? Should these be sent back to the $AAr_{total}$ pool of funds?** | Funds allocated to pay vCAs after petition outcome
 | **Back-End Parameters** | **===================** | **===================** | 
-| Direct Voting privacy state | Yes | Are votes public or not? |
+| Direct Voting privacy state | Yes | **As stated at the top. Whether voting is private is irrelevant since Jorgumandr is not public** | ~Are votes public or not?~ **Indeterminant since the community is unable to verify**|
 | dReps Voting privacy state (if applicable) | No | Are dReps votes public or not? |
 | Funds under control | 16,000,000 ada | Fund will Control 16M ada |
 | Fund goals | Goal 1 <br> Goal 2 <br> Goal 3 | Fund goals to be presented in the Voting App |
