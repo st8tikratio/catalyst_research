@@ -1,20 +1,26 @@
 # Information
-These parameters below are the guidelines used to define the Catalyst processes for Fund 9
 
-You can find the PDF [here](https://drive.google.com/file/d/1GmgwUGuZ3yE0w3usZdV-ZZw-nP8oPqX5/view) and the raw data [here](https://docs.google.com/document/d/151LkmQ2yKnuBvts9cGp8H9bmXjir7KIAGAXQltyqWvk/edit).
+These are **_parameter suggestions_** for Fund10.
+
 
 ## Parameter Descriptions
 
 Fund9 Catalyst Governance is the actual voting process put in place to decide which proposal will receive funding from treasury
 
-There are three parameter sections within the table below:
+There are **four columns** in the table below:
+1. Original PARAMETER
+2. Original VALUE
+3. Suggested VALUE
+4. Suggested DESCRIPTION
+
+There are **three parameter sections** within the table below:
 1. Product/Business/Informative Parameters
 2. Rewards Parameters
 3. Back-End Parameters
 
 ## Table 1
 
-|PARAMETER | Current VALUE | **Suggested CHANGE** | **NEW DESCRIPTION** |
+|Original PARAMETER | Original VALUE | **Suggested VALUE** | **Suggested DESCRIPTION** |
 | -------- | -----         | -----------          | --------            |  
 | **Product/Business/Informative Parameters** | **===================** | **===================** | **===================** |
 | Direct Voting privacy state | Yes   |  -     | Are votes public or not? |
@@ -31,10 +37,10 @@ There are three parameter sections within the table below:
 |                             | [Grow East Asia, Grow Cardano](https://app.ideascale.com/t/UM5UZBvV3) $250,000        | Change to Match Results | |
 |                             | [Building (on) Blockfrost](https://app.ideascale.com/t/UM5UZBvum) $50,000             | Change to Match Results | |
 | Proposals submission fee    | Free                                                                                  | **Should Proposers be required to place funds in escrow** <p></p> This has the possibility of reducing spam and low effort proposals | Proposers can submit a proposal for discussion on Ideascale.|
-| Funds under control         | 16,000,000 ada                                                                        | | Fund will Control 16M ada |
-| Funds MIR date              | Date + CR                                                                             | |
-| Reward distribution date    | 02/Sep/2022 - 09/Sep/2022                                                             | | When funding tx’s actually go out |
-| Mechanism to prevent price fluctuation | Proposals will be paid the $ value they requested in ada, according to ada valuation at reward distribution date. 3,200,000ada total rewards for Voters + advisors + referrers + challenge teams will be provided according to ada valuation on reward distribution date. | |
+| Funds under control         | 16,000,000 ada                                                                        | - | Fund will Control 16M ada |
+| Funds MIR date              | Date + CR                                                                             | - |
+| Reward distribution date    | 02/Sep/2022 - 09/Sep/2022                                                             | - | When funding tx’s actually go out |
+| Mechanism to prevent price fluctuation | Proposals will be paid the $ value they requested in ada, according to ada valuation at reward distribution date. 3,200,000ada total rewards for Voters + advisors + referrers + challenge teams will be provided according to ada valuation on reward distribution date. |  Is this correct and does this now make ADA a security? IF Projects were paid in ADA only, removing the association with USD may be necessary | |
 | Fund goals | Attract more developers <p></p> Build real live solutions based on the Cardano blockchain. <p></p> Improve tooling to support human processes in Catalyst | Fund goals to be presented in the Voting App. <p></p> Survey results collected between 4/20 - 5/19. 1045 votes cast, on 31 statements, by 47 unique participants. [Results](https://pol.is/report/r4dafyewbkcrkm8c7exjb). Took top 3 by (yes minus no). Combined 2 / 26 due to similarity, taking the more general “solutions” over “applications”. Broke tie on 10 / 19 based on number of participants + disagreement.|
 | Maximum proposals that can be put on the ballot | No limit | |
 | Community advisor registration | Through Ideascale | Everyone can register as a Community Advisor. They can’t do CA work in the challenge they are proposing to or are involved with a proposal team.|
