@@ -8,7 +8,7 @@ This should reduce the requirement that vPAs read every proposal associated with
 
 
 
-
+Souce: [vPA Aggregate File - Fund 9](https://docs.google.com/spreadsheets/d/1ib-OuG8MhI1l6br7ybBwh4g7VCMTdHtQE6Gl4qlC_xE/edit#gid=2100389199)
 
 
 One further suggestion, though not directly related to the vPA issue, revolves around the PA rewards and nixing the lottery system.
