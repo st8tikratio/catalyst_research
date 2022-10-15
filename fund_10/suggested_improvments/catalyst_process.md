@@ -22,10 +22,10 @@
 8. VPAs are only required to read the entire proposal and determine who is correct when there are opposing opinions.
 9. vPAs review and “grade” based on the provided assessment contents. 
 
+> Options could include a threshold review requirement for proposers such as 85% assessments reviewed to no be filtered out. This would minimize the benefits of this change.
+
 #### Benefits
 This should reduce the requirement that vPAs read every proposal associated with each assessment under review. Overhead is minimized, responsibility distributed, proposers do more than just submit they **MUST** review every assessment or have their proposal **Filtered Out.**
-<p></p>
-Options could include a threshold review requirement for proposers such as 85% assessments reviewed to no be filtered out. This would minimize the benefits of such a setup.
 
 ---
 
