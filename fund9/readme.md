@@ -29,3 +29,11 @@ This folder contains all the data provided by IOG related to the final results o
 #### [Fund9 Catalyst Parameters.pdf](https://github.com/st8tikratio/catalyst_research/blob/main/fund9/Fund9%20Catalyst%20Parameters%20-%20Public.pdf)
 - This doc was downloaded from [here](https://drive.google.com/file/d/1GmgwUGuZ3yE0w3usZdV-ZZw-nP8oPqX5/view)
 - Author: Unknown
+
+### Other Resources
+These files are also related to Fund 9.
+
+#### [vPA Aggregate File - Fund 9](https://docs.google.com/spreadsheets/d/1ib-OuG8MhI1l6br7ybBwh4g7VCMTdHtQE6Gl4qlC_xE/edit#gid=2100389199)
+- Google Sheets; This file is too large to embed into GitHub
+- Results of vPA Stage
+
