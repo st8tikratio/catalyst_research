@@ -8,6 +8,10 @@ Holacracy is a method of decentralized management and organizational governance,
 - [Holacracy and the Complexity of Creating a Compensation System](https://blog.nightnurse.ch/02/2020/holacracy-and-the-complexity-of-making-a-compensation-system/)
 - [A Self-Directed Compensation System For Self-Managing Companies](https://blog.holacracy.org/a-self-directed-compensation-system-b1d4a7a44b48)
 
+### Literature (Non-Specific)
+- [Debating Equal Pay for All: Economy, Practicability and Ethics](https://link.springer.com/book/10.1007/978-3-030-53575-9)
+
+
 ## Models
 - []()
 - []()
