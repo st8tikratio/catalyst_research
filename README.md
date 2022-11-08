@@ -1,5 +1,9 @@
 # Catalyst Research
 
+:warning: This repo is now dead (short-lived) due to my **departure from Cardano Community on 30 October 2022.**
+
+---
+
 This is a newly created [repo](https://github.com/st8tikratio/catalyst_research) (07 Oct 2022) and is the beginning of a personal journey to track, compile, 
 formulate and derive informative data from the various activities conducted in Cardano Project Catalyst. Having come this far, might as well continue on
 with additional research.
